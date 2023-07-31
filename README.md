@@ -7,7 +7,7 @@ in the main.pu
 ```python
 USERNAME="YOU USER NAME"
 PASSWORD="YOU PASSWORD"
-
+'''
 in the insta.py
 ```python
 self.driver.get("https://www.instagram.com/accounts/login/")
